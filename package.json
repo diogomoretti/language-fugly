@@ -1,0 +1,12 @@
+{
+  "name": "language-fugly",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fugly support for Atom.",
+  "repository": "https://github.com/diogomoretti/language-fugly",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
